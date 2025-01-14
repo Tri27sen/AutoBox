@@ -1,0 +1,19 @@
+npx prisma db push  - sync database
+npx prisma studio - shows the schema in localhost
+https://cabinets-anymore-tested-duck.trycloudflare.com/sign-in?redirect_url=https%3A%2F%2Fcabinets-anymore-tested-duck.trycloudflare.com%2F
+px untun@latest 
+tunnel http://localhost:3000
+Need to install the following packages:
+untun@0.1.3
+Ok to proceed? (y) y
+[10:03:35 pm] ◐ Starting cloudflared tunnel to http://localhost:3000
+[10:03:35 pm] 
+, Terms and Privacy Policy.
+
+❯ Privacy Policy:  https://www.cloudflare.com/privacypolicy/
+
+
+✔ Do you agree with the above terms and wish to install the binary from GitHub?
+Yes
+ℹ Waiting for tunnel URL...                                                                                                                                  10:03:52 pm   
+✔ Tunnel ready at https://cabinets-anymore-tested-duck.trycloudflare.com                                                                                     10:03:57 pm   
